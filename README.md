@@ -13,11 +13,7 @@ Created by: 46765 Machine Learning for Energy systems Group 09
 
 In order to investigate the issue of trading wind energy in day-ahead and balancing markets, this assignment compares two models: 1) employing forecasts of wind power production before tackling the decision-making problem, and 2) using data-driven methods to directly determine the most effective bidding strategy. Along with the impact of regularisation, the approach combines a deterministic optimisation model with linear and non-linear data-driven techniques.
 
-Required package are listed in "requirements.txt" file.
-To install the requirements, open a terminal/command line window in PyCharm and type:
 
-```
-    $ pip install -r requirements.txt
 ```
 
 
